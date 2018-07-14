@@ -1,8 +1,8 @@
-#**WARNING**
-**Will contain inevitable spoilers!  Divert your eyeballs.**
+# **WARNING**
+** Will contain inevitable spoilers!  Divert your eyeballs. **
 
 
-###big lessons so far:
+### big lessons so far:
 - i/o is very limited (start w/ 2 chips)
 - discrete logic outside of chips gets confusing fast.
 - propagation delay always matters 
